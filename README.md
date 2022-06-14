@@ -11,5 +11,5 @@
 9. [Wyrażenie warunkowe if, elif, else.](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/719f8b06a5ae57ba83c885fe44439514991dce8b/wyrazenia_warunkowe.ipynb)
 10. [Pętla for...in. Operator modulo. Iterowanie przez różne typy danych.](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/82138859d53768658d1294549995c03aba9cc573/petla_for.ipynb)
 11. [Pętla while. Wyrażenia break, continue, pass.](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/370460258d6f6f682ca47f15318919e307bace73/petla_while.ipynb)
-12. [Użyteczne operatory i funkcje - range(), enumerate(), zip(), min(), max(), input().Przykład użycia biblioteki random do generowanie liczb pseudolosowych.](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/af8d68a487815e4e1ac529ed62ca5a6c1275d0cc/uzyteczne_operatory.ipynb)
+12. [Użyteczne operatory i funkcje - range(), enumerate(), zip(), min(), max(), input(). Przykład użycia biblioteki random do generowanie liczb pseudolosowych.](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/af8d68a487815e4e1ac529ed62ca5a6c1275d0cc/uzyteczne_operatory.ipynb)
 

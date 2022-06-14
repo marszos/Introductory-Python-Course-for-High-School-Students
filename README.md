@@ -7,4 +7,5 @@
 5. [Typ danych krotka - (ang. tuples)](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/17d15551bbebb17c57ae0966f91cba115f18885f/Krotki_typy_danych.ipynb).
 6. [Typ danych zbiór.](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/a743a69a2d71b1ebacf0319faebf481db9296d93/Zbiory_typy_danych.ipynb)
 7. [Dane typu logicznego. Kilka słów o operatorach boolowskich.](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/28d3b7ccd3ee89605e42fa1e1e477e87c14cb96f/dane_typu_logicznego.ipynb)
+8. [Test z typow danych.](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/803384be45332b81c8dbdb5dcb02a449425acc5d/test_z_typow_danych.ipynb)
 

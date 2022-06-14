@@ -17,4 +17,5 @@
 15. [Fukncje map(), filter() oraz wyrażenie lambda.](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/e0d84f7fd3dba09b810fa7ec9ef6f6ca4ee3af15/map_lambda.ipynb)
 16. [Gra.](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/73b4c13881ac1634e6e4a6c2b130bebbf5a573e6/gra_instrukcje.ipynb)
 17. [Everything Is an Object. Co to sa obiekty?](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/b483e87372ecae97733b8e63c86d3996245eb76e/wszystko_jest_obiektem.ipynb)
+18. [Dziedziczenie i polimorfizm.](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/013f49be441bf923d46e34d0c430295aba12baac/dziedziczenie_poli.ipynb)
 

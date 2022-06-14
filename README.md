@@ -5,4 +5,5 @@
 3. [Typ danych lista. Indeksowanie, pobieranie fragmentów ciagu (ang. slice), metody.](https://github.com/marszos/python_hs_classes/blob/a8124b58760804887593e0e553eebb2aff052a8b/zmienna_typu_lista.ipynb)
 4. [Typ danych słownik - tablica z haszowaniem. Metody.](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/dfb02e819087abaf646eb69f22adf18856f2d696/slownik_typ_d.ipynb)
 5. [Typy danych krotka - (ang. tuples)](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/17d15551bbebb17c57ae0966f91cba115f18885f/Krotki_typy_danych.ipynb).
+6. [Typ danych zbiór](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/a743a69a2d71b1ebacf0319faebf481db9296d93/Zbiory_typy_danych.ipynb)
 

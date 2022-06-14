@@ -14,4 +14,5 @@
 12. [Użyteczne operatory i funkcje - range(), enumerate(), zip(), min(), max(), input(). Przykład użycia biblioteki random do generowanie liczb pseudolosowych.](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/af8d68a487815e4e1ac529ed62ca5a6c1275d0cc/uzyteczne_operatory.ipynb)
 13. [List comprehension, czyli pętla w jednej linijce kodu zamknieta w nawiasach kwadratowych.](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/a5fda75fedda43a9b6fed7cdd35823f8a8b07dbe/List_comprehension.ipynb)
 14. [Web scraping (skrobanie stron) - przykład użycia biblioteki requests.](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/5cf9e1cb87e3de675db1c134632299f68d62ff96/biblioteka_requests.ipynb)
+15. [Fukncje map(), filter() oraz wyrażenie lambda.](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/e0d84f7fd3dba09b810fa7ec9ef6f6ca4ee3af15/map_lambda.ipynb)
 

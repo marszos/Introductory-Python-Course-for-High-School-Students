@@ -10,4 +10,5 @@
 8. [Test z typow danych.](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/803384be45332b81c8dbdb5dcb02a449425acc5d/test_z_typow_danych.ipynb)
 9. [Wyrażenie warunkowe if, elif, else.](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/719f8b06a5ae57ba83c885fe44439514991dce8b/wyrazenia_warunkowe.ipynb)
 10. [Pętla for...in. Operator modulo. Iterowanie przez różne typy danych.](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/82138859d53768658d1294549995c03aba9cc573/petla_for.ipynb)
+11. [Pętla while. Wyrażenia break, continue, pass.](https://github.com/marszos/Introductory-Python-Course-for-High-School-Students/blob/370460258d6f6f682ca47f15318919e307bace73/petla_while.ipynb)
 
